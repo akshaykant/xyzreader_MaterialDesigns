@@ -20,10 +20,11 @@
 
 
     <!--App Bar-->
-    <dimen name="app_bar_elevation">4dp</dimen>
+    <dimen name="app_bar_elevation">6dp</dimen>
 
     <!--Floating Action Button-->
-    <dimen name="floating_action_button_elevation">4dp</dimen>
+    <dimen name="floating_action_button_elevation_resting">6dp</dimen>
+    <dimen name="floating_action_button_elevation_pressed">12dp</dimen>
 
     <!-- Default colors and dimens per Material Design guidelines (Last update: May 2016 release) -->
     <!-- Style -->
